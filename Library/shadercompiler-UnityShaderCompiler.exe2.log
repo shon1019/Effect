@@ -1,0 +1,31 @@
+Base path: D:/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=4 type=0 insize=725 outsize=1070 kw=PIXELSNAP_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=4 insize=1070 outsize=2085 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=725 outsize=422 kw=PIXELSNAP_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=4 insize=422 outsize=1082 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2059 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1176 outsize=821 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5004 outsize=4101 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9166 outsize=8665 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2867 outsize=1329 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1806 outsize=1389 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1526 outsize=1533 ok=1
+Cmd: initializeCompiler
